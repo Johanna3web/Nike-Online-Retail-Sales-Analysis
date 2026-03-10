@@ -1,7 +1,7 @@
 # 👟 Nike Sales Performance Dashboard
 ### Power BI | Data Analytics | India Region | FY 2023–2025
 
-![Dashboard](screenshots/dashboard.png)
+ https://dashboard-blossom-deck.vercel.app/
 
 ---
 
